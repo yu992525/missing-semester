@@ -32,6 +32,13 @@ language.** Vim has *modes*, and the same key does different things in each.
 You don't have to use Vim daily. The takeaway: think "what object, what action" —
 smaller, cleaner edits.
 
+**More modes (from the official lecture — beyond the two essentials above):**
+- **Visual** — select text (then act on the selection).
+- **Replace** — type over existing text.
+- **Command-line** — the `:` commands like `:wq`, `:q!`, search/replace.
+
+The official lecture also walks through a worked example fixing a "fizzbuzz" program.
+
 ## LSP — how an editor "understands" code
 
 Smart features (jump to definition, error underlines, autocomplete, safe rename)
@@ -76,6 +83,19 @@ Standard entry points help new people, CI, and AI agents all work the same way.
 assign a task, state: the **goal**, the **relevant files**, what **not to touch**,
 and **how to check** it worked. When you accept output, **read the diff and run
 the tests** — don't trust that code "looks right."
+
+## IDE extensions (from the official lecture)
+
+- **Dev containers** — package the whole dev environment so it runs the same
+  anywhere (no "works on my machine").
+- **Remote SSH development** — edit code that lives on a remote server, through
+  your local editor (connects to Lecture 2's SSH).
+- **Collaborative editing** — multiple people editing the same file live, like
+  Google Docs for code.
+
+> Note: the "single front door / Makefile" and "development loop" sections below
+> are solid engineering practice (from the study notes) that complement the
+> official lecture, whose headline topics are Vim, LSP, AI tools, and IDE extensions.
 
 ## The development loop — small steps, feedback, evidence
 
