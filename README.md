@@ -13,6 +13,7 @@ of the commands and ideas I actually used and understood.
 |---------|-------|-------|
 | 01 | Course Overview + Introduction to the Shell | [cheat sheet](lectures/lecture-01-shell.md) |
 | 02 | Command-line Environment | [cheat sheet](lectures/lecture-02-command-line-environment.md) |
+| 03 | Development Environment and Tools | [cheat sheet](lectures/lecture-03-development-environment.md) |
 
 ## How I'm working through this
 
