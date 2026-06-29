@@ -12,6 +12,7 @@ of the commands and ideas I actually used and understood.
 | Lecture | Topic | Notes |
 |---------|-------|-------|
 | 01 | Course Overview + Introduction to the Shell | [cheat sheet](lectures/lecture-01-shell.md) |
+| 02 | Command-line Environment | [cheat sheet](lectures/lecture-02-command-line-environment.md) |
 
 ## How I'm working through this
 
