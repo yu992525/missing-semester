@@ -15,6 +15,7 @@ of the commands and ideas I actually used and understood.
 | 02 | Command-line Environment | [cheat sheet](lectures/lecture-02-command-line-environment.md) |
 | 03 | Development Environment and Tools | [cheat sheet](lectures/lecture-03-development-environment.md) |
 | 04 | Debugging and Profiling | [cheat sheet](lectures/lecture-04-debugging-profiling.md) |
+| 05 | Version Control (Git) | [cheat sheet](lectures/lecture-05-version-control.md) |
 
 ## How I'm working through this
 
