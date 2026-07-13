@@ -18,6 +18,7 @@ of the commands and ideas I actually used and understood.
 | 05 | Version Control (Git) | [cheat sheet](lectures/lecture-05-version-control.md) |
 | 06 | Packaging and Shipping Code | [cheat sheet](lectures/lecture-06-packaging-shipping.md) |
 | 07 | Agentic Coding | [cheat sheet](lectures/lecture-07-agentic-coding.md) |
+| 08 | Beyond the Code | [cheat sheet](lectures/lecture-08-beyond-the-code.md) |
 
 ## How I'm working through this
 
