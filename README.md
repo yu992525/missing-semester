@@ -17,6 +17,7 @@ of the commands and ideas I actually used and understood.
 | 04 | Debugging and Profiling | [cheat sheet](lectures/lecture-04-debugging-profiling.md) |
 | 05 | Version Control (Git) | [cheat sheet](lectures/lecture-05-version-control.md) |
 | 06 | Packaging and Shipping Code | [cheat sheet](lectures/lecture-06-packaging-shipping.md) |
+| 07 | Agentic Coding | [cheat sheet](lectures/lecture-07-agentic-coding.md) |
 
 ## How I'm working through this
 
