@@ -19,6 +19,7 @@ of the commands and ideas I actually used and understood.
 | 06 | Packaging and Shipping Code | [cheat sheet](lectures/lecture-06-packaging-shipping.md) |
 | 07 | Agentic Coding | [cheat sheet](lectures/lecture-07-agentic-coding.md) |
 | 08 | Beyond the Code | [cheat sheet](lectures/lecture-08-beyond-the-code.md) |
+| 09 | Code Quality | [cheat sheet](lectures/lecture-09-code-quality.md) |
 
 ## How I'm working through this
 
